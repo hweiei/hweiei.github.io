@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "我的博客",
   description: "记录技术成长，分享业务实战心得",
-  base: '/', // 部署到 GitHub Pages 的用户名.github.io 时使用 /
+  base: '/hweiei.github.io/', // 部署到 GitHub Pages 的用户名.github.io 时使用 /
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
